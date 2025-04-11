@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "name": "Toyota Camry",
+      "brand": "Toyota",
+      "fuel": "Petrol",
+      "seating": 5,
+      "price": 25000,
+      "image": "https://cdn.motor1.com/images/mgl/0ANk6/s1/2022-toyota-camry.webp"
+    },
+    {
+      "id": 2,
+      "name": "Honda Civic",
+      "brand": "Honda",
+      "fuel": "Petrol",
+      "seating": 5,
+      "price": 22000,
+      "image": "https://cdn.motor1.com/images/mgl/pbbvO/s1/2022-honda-civic-sedan-front-view.webp"
+    },
+    {
+      "id": 3,
+      "name": "Tesla Model 3",
+      "brand": "Tesla",
+      "fuel": "Electric",
+      "seating": 5,
+      "price": 40000,
+      "image": "https://cdn.motor1.com/images/mgl/0x6pO/s1/tesla-model-3.webp"
+    },
+    {
+      "id": 4,
+      "name": "Ford Explorer",
+      "brand": "Ford",
+      "fuel": "Diesel",
+      "seating": 7,
+      "price": 32000,
+      "image": "https://cdn.motor1.com/images/mgl/7k6J0/s1/2022-ford-explorer-st-line.webp"
+    },
+    {
+      "id": 5,
+      "name": "Hyundai Ioniq 5",
+      "brand": "Hyundai",
+      "fuel": "Electric",
+      "seating": 5,
+      "price": 41000,
+      "image": "https://cdn.motor1.com/images/mgl/nN6kM/s1/2022-hyundai-ioniq-5-front.webp"
+    },
+    {
+      "id": 6,
+      "name": "Kia Seltos",
+      "brand": "Kia",
+      "fuel": "Petrol",
+      "seating": 5,
+      "price": 21000,
+      "image": "https://cdn.motor1.com/images/mgl/VGxv6/s1/2023-kia-seltos.webp"
+    },
+    {
+      "id": 7,
+      "name": "Chevrolet Tahoe",
+      "brand": "Chevrolet",
+      "fuel": "Diesel",
+      "seating": 7,
+      "price": 50000,
+      "image": "https://cdn.motor1.com/images/mgl/kkzMx/s1/2023-chevrolet-tahoe-rst-performance-edition.webp"
+    },
+    {
+      "id": 8,
+      "name": "BMW 3 Series",
+      "brand": "BMW",
+      "fuel": "Petrol",
+      "seating": 5,
+      "price": 45000,
+      "image": "https://cdn.motor1.com/images/mgl/YVz1Z/s1/2023-bmw-3-series-sedan.webp"
+    },
+    {
+      "id": 9,
+      "name": "Audi Q5",
+      "brand": "Audi",
+      "fuel": "Diesel",
+      "seating": 5,
+      "price": 48000,
+      "image": "https://cdn.motor1.com/images/mgl/LAA9B/s1/2023-audi-q5.webp"
+    },
+    {
+      "id": 10,
+      "name": "Mercedes-Benz GLA",
+      "brand": "Mercedes",
+      "fuel": "Petrol",
+      "seating": 5,
+      "price": 52000,
+      "image": "https://cdn.motor1.com/images/mgl/1qWqZ/s1/2024-mercedes-benz-gla.webp"
+    }
+  ]
+  
