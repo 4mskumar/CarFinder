@@ -1,12 +1,24 @@
-# React + Vite
+# 🚗 CarFinder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**CarFinder** is a modern and responsive web application built with **React** and **Vite**, designed to help users search, filter, and explore a collection of cars with ease. It includes features like pagination, sorting, wishlisting, and dark mode to enhance user experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔧 Tech Stack
 
-## Expanding the ESLint configuration
+- **React.js** – Frontend library for building UI
+- **Vite** – Lightning-fast build tool
+- **TailwindCSS** – Utility-first CSS framework for styling
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+- 🔍 **Search & Filter Cars**
+- 💖 **Add to Wishlist (Saved in LocalStorage)**
+- 📑 **Pagination** for large datasets
+- ↕️ **Sort by Price (Low to High)**
+- 🖼️ **Responsive Design** optimized for all devices
+
+
+
